@@ -1,7 +1,7 @@
 2021/2022 Compilers Coursework
 ==============================
 
-There is a single assessed code deliverable, which is due on Friday 25 March 2022 at 23:59. This deliverable contains two components:
+There is a single assessed code deliverable, which is due on Tuesday 29 March 2022 at 23:59. This deliverable contains two components:
 
 - [*C-compiler*](c_compiler.md) (90%): a compiler from C to MIPS assembly. The source language is pre-processed C90. The target environment is Ubuntu 20.04, so the lab Ubuntu distribution, or equivalently an Ubuntu 20.04 VM as configured in the attached Vagrantfile.
 
@@ -21,6 +21,10 @@ All submissions will be tested functionally -- there is no expectation for your 
 
 Changelog
 =========
+
+* New for 2021/2022:
+
+    * Various improvements to scripts for running test cases. (Thanks to Yann Herklotz for this.)
 
 * New for 2020/2021:
 
