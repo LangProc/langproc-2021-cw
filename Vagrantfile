@@ -49,7 +49,7 @@ Vagrant.configure(2) do |config|
       sudo apt-get -y install g++-mips-linux-gnu gdb-multiarch
 
       # QEMU run-time emulator
-      sudo apt-get -y install qemu
+      sudo apt-get -y install qemu qemu-user
 
    SHELL
 end
